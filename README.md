@@ -1,11 +1,6 @@
 ﻿# Java Core (семинары)
 
-![picture for project](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar2/main/src/main/resources/Java_core.jpg)
-
 ## Урок 2. Данные и функции
-
-[К РЕШЕНИЮ 1 ЗАДАЧИ](https://github.com/Terekhov-A-S/Java_core_seminar2?tab=readme-ov-file#решение)  ||  [К РЕШЕНИЮ 2 ЗАДАЧИ](https://github.com/Terekhov-A-S/Java_core_seminar2?tab=readme-ov-file#решение-1)  ||  [К РЕШЕНИЮ 3 ЗАДАЧИ](https://github.com/Terekhov-A-S/Java_core_seminar2?tab=readme-ov-file#решение-2)
-
 
 ### Задача 1.
 
