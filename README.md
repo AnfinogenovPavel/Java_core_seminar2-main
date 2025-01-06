@@ -1,5 +1,7 @@
 ﻿# Java Core (семинары)
 
+ ![Java core](https://github.com/AnfinogenovPavel/Java_core_seminar2-main/blob/main/src/main/resources/Java_core.jpg)
+
 ## Урок 2. Данные и функции
 
 ### Задача 1.
